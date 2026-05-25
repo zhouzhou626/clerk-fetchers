@@ -4,16 +4,16 @@ Before you dive too deep here, you might want to start with our [Contributors' G
 check out the info here! If you still have questions after that, you can join the [Zulip](https://civictown.zulipchat.com/join/jmprqfsjk63a5fqwkq3kafvr/) to ask or open an [Issue](https://github.com/civicband/clerk-fetchers/issues) on this repository. 
 
 # What's a municipality?
-For this project, a municipality is a local government or public body that
-holds public meetings and publishes agendas, minutes, or meeting packets. This
-usually includes cities, towns, boroughs, villages, counties, school boards,
-planning or zoning boards, port districts, water districts, and similar local
-authorities.
+Municipalities are local civic bodies like cities, towns, boroughs, counties,
+and public boards (like a School Board, Planning Board, or Port District
+Oversight Board).
 
-The useful test is whether the body owns the meeting records you want Clerk to
-fetch. A city council, county commission, or school board is in scope. A state
-agency, federal agency, national government, or broad state/country portal is
-out of scope unless the site is only hosting records for a specific local body.
+For Civic Band's purposes, the useful question is whether the body owns the
+meeting records you want Clerk to fetch. City councils, county commissions,
+school boards, planning or zoning boards, water districts, and similar local
+authorities are generally in scope. States, countries, federal agencies, and
+broad state/country portals do not count as municipalities unless the site is
+only hosting records for a specific local body.
 
 # How can I tell if my municipality uses a supported backend, or if we need a custom scraper?
 
