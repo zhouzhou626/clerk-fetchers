@@ -8,12 +8,13 @@ Municipalities are local civic bodies like cities, towns, boroughs, counties,
 and public boards (like a School Board, Planning Board, or Port District
 Oversight Board).
 
-For Civic Band's purposes, the useful question is whether the body owns the
-meeting records you want Clerk to fetch. City councils, county commissions,
+For Civic Band's purposes, consider whether the body posts public meeting
+records you want to be able to search. City councils, county commissions,
 school boards, planning or zoning boards, water districts, and similar local
-authorities are generally in scope. States, countries, federal agencies, and
-broad state/country portals do not count as municipalities unless the site is
-only hosting records for a specific local body.
+authorities are generally in scope.
+
+States, countries, federal agencies, and broad state/country portals are out of
+scope.
 
 # How can I tell if my municipality uses a supported backend, or if we need a custom scraper?
 
